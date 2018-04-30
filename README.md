@@ -15,6 +15,7 @@ Simple, get your `vb_id` from the [RSS link](https://my.videobloom.com/videos) l
 The files will be placed into a "videos" directory in the current directory. This script works by grabbing the RSS feed from VB and pulling down the video file associated with each video.
 
 ## @Todo
+- [ ] Fix timeout issue with my feed, I presume others might have better luck with less videos? 
 - [ ] Add Webpack implementation.
 - [ ] Add a throbber for the waits. [This looks like a good solution.](https://www.npmjs.com/package/cli-spinner)
 - [ ] Create Mocha Tests.
