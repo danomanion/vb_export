@@ -1,0 +1,23 @@
+{
+  "name": "videobloom_export",
+  "version": "1.0.0",
+  "description": "Command-line app that allows you to export your VideoBloom videos.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danomanion/vb_export.git"
+  },
+  "author": "Dano Manion",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danomanion/vb_export/issues"
+  },
+  "homepage": "https://github.com/danomanion/vb_export#readme",
+  "dependencies": {
+    "download-file": "^0.1.5",
+    "rss-parser": "^3.1.2"
+  }
+}
