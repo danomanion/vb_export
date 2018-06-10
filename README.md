@@ -22,5 +22,8 @@ The files will be placed into a "videos" directory in the current directory. Thi
 - [ ] Add download directory option to CLI interface.
   - IE: `node app.js [vb_id] [vb_download_directory]`
 
+## Feature Ideas
+- [ ] Create a GraphQL wrapper to query API with GraphQL? This might be a project in-itself. 
+
 **Special thanks to [Aaron Ott](https://twitter.com/aaronott) for writing the original implementation of this script located [here](https://github.com/aaronott/vb_export).**
 - Throw some love his way via a nice cup of coffee ☕️ or something along those lines.
